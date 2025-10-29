@@ -1,0 +1,2 @@
+# nbrot
+ncurses mandelbrot explorer
